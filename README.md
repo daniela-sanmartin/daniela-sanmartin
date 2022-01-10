@@ -12,9 +12,7 @@
   <body>
   	<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width: 720px; padding: 20px 0px; vertical-align: middel;">
   		<tr>
-  			<td width="280px" height="140px" style="display:block; float:left; padding: 0px 0px 0px 0px; margin-bottom: 0px;"><img src="https://www.aptuschile.cl/web/wp-content/uploads/2017/11/aptus-logo-mail2.png" width="280" height="117" alt=""/></td>
-  			<td width="110px" height="140px" style="display:block; float:left; padding: 0px 0px 0px 0px; margin-bottom: 0px;"><img src="https://www.aptus.org/web/wp-content//uploads/2022/01/Logo-GPTW_certificación_Aptus.png" width="80" height="136
-        " alt=""/></td>
+  			<td width="300px" height="108px" style="display:block; float:left; padding: 0px 10px 0px 0px; margin-bottom: 10px;"><img src="https://www.aptus.org/web/wp-content//uploads/2022/01/Aptus_logo-GPTW_firma_1.png" width="300" height="108px" alt=""/></td>
         <td width="139px" height="140px" style="display:block; float:left; padding: 0px 20px; border-left: solid 1px #69B1CA; margin-bottom: 20px;">
   				<p style="font-family:Helvetica, Arial, sans-serif;font-size: 14px;line-height: 16px;font-weight: 600;text-transform: uppercase; margin: 0px; margin-top: 40px;">Nombre <br><span style="color: #69B1ca">Apellido</span></p>
   				<p style="font-family:Helvetica, Arial, sans-serif;font-size: 14px;line-height: 16px;color: #69B1ca;margin:4px 0px;">Cargo cargo_</p>
